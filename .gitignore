@@ -1,0 +1,18 @@
+# Seguranca 
+.env
+.env.local
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# IDEs 
+.vscode/
+.idea/
+*.swp
